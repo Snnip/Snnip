@@ -2,5 +2,4 @@
 Welcome to my page!
 I'm Sandra, Full Stack Web Developer junior from Galicia, Spain.
 
-### Things I code with
 
