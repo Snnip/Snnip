@@ -1,7 +1,8 @@
 # :wave: Hi there, I am Sandra
 Welcome to my page!
 I'm Sandra, Full Stack Web Developer junior from Galicia, Spain.
-![black yellow minimalist Idea Logo](https://github.com/Snnip/Snnip/assets/131202034/65f10de8-9575-453a-a493-c75c36eff3d7)
+
+![Logo 375 x 375](https://github.com/Snnip/Snnip/assets/131202034/ee3be4e0-4185-47b7-ac7e-81543e9adb4d)
 
 ## About me:
 I am a junior web developer, eager to grow every day in this sector, so I am constantly learning.
