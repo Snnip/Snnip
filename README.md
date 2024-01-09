@@ -1,6 +1,8 @@
 # :wave: Hi there, I am Sandra
-![Copia de Blue Modern Technology LinkedIn Banner](https://github.com/Snnip/Snnip/assets/131202034/6dba9600-7bf5-4ca2-b508-db1cc83657e9)
-Welcome to my page!
+
+![Sandra Pol](https://github.com/Snnip/Snnip/assets/131202034/1055c308-60b5-4c1a-8acf-9162b60b4c34)
+
+### Welcome to my page!
 
 I'm Sandra, Full Stack Web Developer junior from Galicia, Spain.
 
