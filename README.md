@@ -4,10 +4,10 @@
 
 ### Welcome to my page!
 
-I'm Sandra, Full Stack Web Developer junior from Galicia, Spain.
+I'm Sandra, junior SAP BTP consultant, and junior full stack web developer from Galicia, Spain.
 
 ## About me:
-I am a junior web developer, eager to grow every day in this sector, so I am constantly learning.
+Soy una persona con ganas de crecer cada día en el sector tecnológico, y por ello estoy en constante aprendizaje.
  
 I have worked with the following technologies
 
