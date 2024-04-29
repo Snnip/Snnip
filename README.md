@@ -7,7 +7,7 @@
 I'm Sandra, junior SAP BTP consultant, and junior full stack web developer from Galicia, Spain.
 
 ## About me:
-Soy una persona con ganas de crecer cada día en el sector tecnológico, y por ello estoy en constante aprendizaje.
+I am a person who likes to be in constant learning to grow day by day, so I can find my opportunity in the technology sector.
  
 I have worked with the following technologies
 
