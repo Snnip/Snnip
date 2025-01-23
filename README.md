@@ -1,7 +1,5 @@
 # :wave: Hi there, I am Sandra
 
-![Sandra Pol](https://github.com/Snnip/Snnip/assets/131202034/1055c308-60b5-4c1a-8acf-9162b60b4c34)
-
 ### Welcome to my page!
 
 I'm Sandra, junior SAP BTP consultant, and junior full stack web developer from Galicia, Spain.
