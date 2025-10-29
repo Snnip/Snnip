@@ -1,6 +1,6 @@
 # :wave: Hola! Soy Sandra
 
-### Bienvenid@ a mi págna!
+### Bienvenid@ a mi página!
 
 Soy consultora SAP BTP en el equipo de integración de Avvale.
 
@@ -11,8 +11,8 @@ He trabajado con las siguientes tecnologías:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,materialui,tailwind,mysql,nodejs,vscode,netlify,github,gitlab)](https://skillicons.dev)
   
-## Find me around the web:                                    
-If you want to know me a little better, click on the following link :point_right: _https://www.linkedin.com/in/sandra-polb/_
+## Dónde encontrarme:                                    
+Si quieres conocerme un poco mejor, haz clic en el siguiente enlace: point_right: _https://www.linkedin.com/in/sandra-polb/_
 
 
 
