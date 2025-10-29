@@ -1,13 +1,13 @@
-# :wave: Hi there, I am Sandra
+# :wave: Hola! Soy Sandra
 
-### Welcome to my page!
+### Bienvenid@ a mi págna!
 
-I'm Sandra, junior SAP BTP consultant, and junior full stack web developer from Galicia, Spain.
+Soy consultora SAP BTP en el equipo de integración de Avvale.
 
-## About me:
-I am a person who likes to be in constant learning to grow day by day, so I can find my opportunity in the technology sector.
+## Sobre mi:
+Soy una persona que le gusta estar en constante crecimiento y superarme día día.
  
-I have worked with the following technologies
+He trabajado con las siguientes tecnologías:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,materialui,tailwind,mysql,nodejs,vscode,netlify,github,gitlab)](https://skillicons.dev)
   
